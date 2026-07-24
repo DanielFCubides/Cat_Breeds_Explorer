@@ -4,5 +4,5 @@ services:
     ports:
       - "3000:3000"
     environment:
-      - PORT=3001
+      - PORT=3000
       - CATS_API_KEY=live_G9PkPuwNz9T8PbB8YSLVPfsO5bT2X9c3bDI8OwaiKTqOKERI9d4EfUAswvR9cSeQ
