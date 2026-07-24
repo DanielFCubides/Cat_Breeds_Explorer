@@ -1,3 +1,34 @@
 services:
-  hello-world:
-    image: hello-world
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    networks:
+      - cat-network
+    environment:
+      - PORT=5000
+    restart: unless-stopped
+    volumes:
+      - ./backend:/app
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:5173"
+    networks:
+      - cat-network
+    environment:
+      - VITE_API_URL=http://backend:5000/api
+    depends_on:
+      - backend
+    restart: unless-stopped
+    volumes:
+      - ./frontend:/app
+
+networks:
+  cat-network:
+    driver: bridge

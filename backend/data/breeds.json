@@ -1,0 +1,290 @@
+{
+  "breeds": [
+    {
+      "id": "abys",
+      "name": "Abyssinian",
+      "temperament": "Active, playful, curious, intelligent",
+      "origin": "Egypt",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "4.5-7.5",
+        "imperial": "10-16"
+      },
+      "description": "The Abyssinian is known for its elegant, muscular body and fine, silky coat with a ticked pattern. They are active, playful, and highly intelligent cats that love to explore and engage with their environment.",
+      "image_id": "Ab4"
+    },
+    {
+      "id": "balk",
+      "name": "Balinese",
+      "temperament": "Active, affectionate, vocal, energetic",
+      "origin": "Thailand",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "8.5-12",
+        "imperial": "19-26"
+      },
+      "description": "The Balinese is a longhaired variety of the Siamese cat. They possess an elegant, muscular body with a silky coat and striking blue eyes. Balinese cats are known for their vocal nature and affectionate personality.",
+      "image_id": "Bal1"
+    },
+    {
+      "id": "beng",
+      "name": "Bengal",
+      "temperament": "Active, playful, energetic, vocal",
+      "origin": "United States",
+      "life_span": "12-16 years",
+      "weight": {
+        "metric": "6.5-9",
+        "imperial": "15-20"
+      },
+      "description": "Bengals are known for their stunning leopard-like coat with rosettes and spots. They are highly active, intelligent cats that love to climb and play. Bengal cats require plenty of stimulation and can be destructive if bored.",
+      "image_id": "Ben1"
+    },
+    {
+      "id": "birb",
+      "name": "Bombay",
+      "temperament": "Active, intelligent, curious, affectionate",
+      "origin": "United States",
+      "life_span": "12-18 years",
+      "weight": {
+        "metric": "6-12",
+        "imperial": "14-26"
+      },
+      "description": "The Bombay is a compact, black-coated cat with golden eyes. They are known for their dog-like personality, often following their owners around and being eager to please. Bombay cats are affectionate and make excellent companions.",
+      "image_id": "Bom1"
+    },
+    {
+      "id": "burm",
+      "name": "Burmese",
+      "temperament": "Gentle, affectionate, devoted, playful",
+      "origin": "Burma (Myanmar)",
+      "life_span": "12-16 years",
+      "weight": {
+        "metric": "8-14",
+        "imperial": "18-31"
+      },
+      "description": "Burmese cats have a rich, golden-brown coat and are known for their friendly, social nature. They are extremely affectionate and form strong bonds with their humans. Burmese are playful well into adulthood.",
+      "image_id": "Bur1"
+    },
+    {
+      "id": "chart",
+      "name": "Chartreux",
+      "temperament": "Calm, friendly, intelligent, affectionate",
+      "origin": "France",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "8-16",
+        "imperial": "18-35"
+      },
+      "description": "The Chartreux is an ancient French cat breed known for its blue-gray coat and sweet orange eyes. They are calm, intelligent cats that bond closely with their families. Chartreux cats are relatively low-maintenance.",
+      "image_id": "Cha1"
+    },
+    {
+      "id": "corn",
+      "name": "Corman",
+      "temperament": "Affectionate, confident, intelligent, playful",
+      "origin": "United States",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "8-12",
+        "imperial": "18-26"
+      },
+      "description": "The Cornish Rex has a very distinctive wavy or curly coat and a slender, muscular body. They are known for being one of the most affectionate cat breeds, often called 'velcro cats' because of how much they love to be near their people.",
+      "image_id": "Cor1"
+    },
+    {
+      "id": "devon",
+      "name": "Devon Rex",
+      "temperament": "Active, playful, curious, affectionate",
+      "origin": "United Kingdom",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "6.5-9",
+        "imperial": "15-20"
+      },
+      "description": "The Devon Rex is another curly-coated cat breed, sharing similarities with the Cornish Rex. They have large ears and a unique, elf-like appearance. Devon Rex cats are highly active, intelligent, and willful.",
+      "image_id": "Dev1"
+    },
+    {
+      "id": "dom",
+      "name": "Domestic Longhair",
+      "temperament": "Varies by personality",
+      "origin": "Unknown",
+      "life_span": "10-15 years",
+      "weight": {
+        "metric": "7-14",
+        "imperial": "16-31"
+      },
+      "description": "The Domestic Longhair is the shorthaired version of the Domestic Shorthair and comes in a wide variety of colors and patterns. Each cat has its own unique personality, and these cats make wonderful family pets.",
+      "image_id": "Dom1"
+    },
+    {
+      "id": "dsh",
+      "name": "Domestic Shorthair",
+      "temperament": "Gentle, affectionate, friendly",
+      "origin": "Unknown",
+      "life_span": "10-15 years",
+      "weight": {
+        "metric": "6-12",
+        "imperial": "14-26"
+      },
+      "description": "The Domestic Shorthair is the most common cat breed in the world. They come in an amazing variety of colors and patterns and are known for their friendly, adaptable nature. These cats make excellent pets for families and individuals alike.",
+      "image_id": "Dsh1"
+    },
+    {
+      "id": "exsh",
+      "name": "Egyptian Mau",
+      "temperament": "Active, energetic, intelligent, quiet",
+      "origin": "Egypt",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "4.5-9",
+        "imperial": "10-20"
+      },
+      "description": "The Egyptian Mau is one of the few naturally spotted breeds of domestic cat. They possess a graceful, athletic build and an ancient lineage. Maus are known for their love of running and playing and their distinctive 'M' shaped markings on their forehead.",
+      "image_id": "Egi1"
+    },
+    {
+      "id": "exp",
+      "name": "Exotic Shorthair",
+      "temperament": "Calm, affectionate, playful",
+      "origin": "United States",
+      "life_span": "10-15 years",
+      "weight": {
+        "metric": "6-12",
+        "imperial": "14-26"
+      },
+      "description": "The Exotic Shorthair is a short-haired cat with a sweet, affectionate personality similar to the Persian cat. They have a thick, plush coat with a round face and large, expressive eyes. Exotics are known as 'the lazy man's Persian' due to their low maintenance coat.",
+      "image_id": "Exo1"
+    },
+    {
+      "id": "main",
+      "name": "Maine Coon",
+      "temperament": "Gentle, affectionate, intelligent, dog-like",
+      "origin": "United States",
+      "life_span": "10-15 years",
+      "weight": {
+        "metric": "11-26",
+        "imperial": "25-58"
+      },
+      "description": "The Maine Coon is the largest domestic cat breed with a rectangular, muscular body, large triangular ears, and a distinctive, shaggy coat. They are known for their friendly, dog-like personalities and are often called 'gentle giants'. Maine Coons bond strongly with their families and are particularly good with children.",
+      "image_id": "Main1"
+    },
+    {
+      "id": "manx",
+      "name": "Manx",
+      "temperament": "Calm, active, intelligent, friendly",
+      "origin": "Isle of Man",
+      "life_span": "12-14 years",
+      "weight": {
+        "metric": "8-10",
+        "imperial": "18-22"
+      },
+      "description": "The Manx is a tailless cat breed from the Isle of Man. They are known for their robust, muscular bodies and dense, water-resistant coat. Manx cats are intelligent and playful, often forming strong bonds with their owners.",
+      "image_id": "Man1"
+    },
+    {
+      "id": "occl",
+      "name": "Ocicat",
+      "temperament": "Active, playful, intelligent, curious",
+      "origin": "United States",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "6-15",
+        "imperial": "14-33"
+      },
+      "description": "The Ocicat is a spotted breed developed in the United States that resembles a small wild cat. They have an athletic build and large, almond-shaped eyes. Ocicats are active, intelligent, and known for being exceptionally friendly with people and other pets.",
+      "image_id": "Oci1"
+    },
+    {
+      "id": "pers",
+      "name": "Persian",
+      "temperament": "Calm, quiet, affectionate, affectionate but somewhat inactive",
+      "origin": "Iran (Persia)",
+      "life_span": "10-15 years",
+      "weight": {
+        "metric": "6-14",
+        "imperial": "14-31"
+      },
+      "description": "The Persian is one of the most popular longhaired cat breeds, known for its long, round face and stunningly luxurious coat. Persian cats are calm, affectionate, and prefer a quiet lifestyle. Their grooming requirements are significant but manageable with regular care.",
+      "image_id": "Per1"
+    },
+    {
+      "id": "russ",
+      "name": "Russian Blue",
+      "temperament": "Shy but affectionate to family, intelligent, playful, quiet",
+      "origin": "Russia",
+      "life_span": "12-16 years",
+      "weight": {
+        "metric": "7-12",
+        "imperial": "16-26"
+      },
+      "description": "The Russian Blue is an elegant cat breed with a mesmerizing silver-blue coat and striking green eyes. They are known for their shy but affectionate nature and form strong bonds with their chosen family members. Russian Blues are intelligent and moderately active.",
+      "image_id": "Rus1"
+    },
+    {
+      "id": "selk",
+      "name": "Selkirk Rex",
+      "temperament": "Sweet, playful, gentle, affectionate",
+      "origin": "United States",
+      "life_span": "12-15 years",
+      "weight": {
+        "metric": "8-12",
+        "imperial": "18-26"
+      },
+      "description": "The Selkirk Rex has a unique, curly coat that gives them a teddy bear-like appearance. They are known for their sweet, playful personalities and friendly disposition. Selkirk Rexes are adaptable and get along well with children and other pets.",
+      "image_id": "Sel1"
+    },
+    {
+      "id": "siam",
+      "name": "Siamese",
+      "temperament": "Active, vocal, intelligent, affectionate",
+      "origin": "Thailand",
+      "life_span": "15-20 years",
+      "weight": {
+        "metric": "4.5-7",
+        "imperial": "10-15"
+      },
+      "description": "The Siamese is a classic, elegant cat breed with a slender body and striking color-point coat. They are known for their distinctive voice and love to communicate with their humans. Siamese cats are extremely affectionate and require a lot of attention.",
+      "image_id": "Sia1"
+    },
+    {
+      "id": "sphynx",
+      "name": "Sphynx",
+      "temperament": "Extroverted, energetic, curious, affectionate",
+      "origin": "Canada",
+      "life_span": "8-14 years",
+      "weight": {
+        "metric": "8-12",
+        "imperial": "18-26"
+      },
+      "description": "The Sphynx is famous for its hairless, wrinkled appearance. Beneath the unique skin lies a sleek, muscular body that feels like warm, soft chamois leather. Despite their unusual appearance, Sphynx cats are extremely affectionate, energetic, and love to cuddle.",
+      "image_id": "Sph1"
+    },
+    {
+      "id": "turk",
+      "name": "Turkish Angora",
+      "temperament": "Active, playful, energetic, intelligent",
+      "origin": "Turkey",
+      "life_span": "15-18 years",
+      "weight": {
+        "metric": "5.5-9",
+        "imperial": "12-20"
+      },
+      "description": "The Turkish Angora is a graceful, elegant longhaired cat with a sophisticated appearance. They have a silky, flowing coat that requires regular grooming. Angora cats are active, intelligent, and form strong bonds with their families.",
+      "image_id": "Tur1"
+    },
+    {
+      "id": "turk2",
+      "name": "Turkish Van",
+      "temperament": "Active, intelligent, playful, social",
+      "origin": "Turkey",
+      "life_span": "14-16 years",
+      "weight": {
+        "metric": "13-20",
+        "imperial": "29-44"
+      },
+      "description": "The Turkish Van is a distinctive all-white or white-and-colored breed known for its unusual affinity for water. They have a massive, muscular body and a waterproof, semi-longhair coat that comes in a variety of patterns. Vans are excellent swimmers and very social.",
+      "image_id": "Van1"
+    }
+  ]
+}

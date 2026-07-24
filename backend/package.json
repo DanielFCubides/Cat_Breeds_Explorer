@@ -1,0 +1,22 @@
+{
+  "name": "cat-breeds-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Cat Breeds Explorer",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": ["cat", "breeds", "api"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
