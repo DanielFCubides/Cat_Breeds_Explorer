@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Corporate TLS-inspection CA cert (machine-specific, needed for local docker builds)
+certs/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
